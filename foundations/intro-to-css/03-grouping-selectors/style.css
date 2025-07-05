@@ -1,0 +1,13 @@
+button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-weight: bolder;
+}
+.one {
+    background-color: rgba(28, 169, 108, 0.853);
+    color: white;
+}
+.two {
+    background-color: rgb(255, 238, 0);
+    color: black;
+}
